@@ -14,5 +14,5 @@ const removed = nums.splice(3,5, 34,49,90,200);
 // const together = nums.join("");
 // const together = nums.join(" ");
 // const together = nums.join(",");
-const together = nums.join(" equal ");
+const together = nums.join(" not equal ");
 console.log(together);
